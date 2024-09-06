@@ -23,11 +23,3 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 To run this project, you need a modern web browser (such as Google Chrome, Mozilla Firefox, or Microsoft Edge) and a text editor (such as Visual Studio Code) installed on your computer.
 
-### Installation
-
-1. **Clone the repository**:
-   
-   Clone this repository to your local machine using the following command:
-
-   ```bash
-   git clone https://github.com/yourusername/employee-management-system.git
